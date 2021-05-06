@@ -31,9 +31,7 @@ header, main, footer{
   --theme-black: #333333;
   --theme-green: #367c2b;
 }
-/* *{
-  outline: solid .5rem red;
-} */
+
 .fix-picture{
   object-fit: cover;
 }
